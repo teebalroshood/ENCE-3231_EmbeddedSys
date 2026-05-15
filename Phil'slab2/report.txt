@@ -1,0 +1,12 @@
+Plotted to '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-F_Cu.gbr'.
+Plotted to '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-B_Cu.gbr'.
+Plotted to '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-F_Paste.gbr'.
+Plotted to '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-B_Paste.gbr'.
+Plotted to '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-F_Silkscreen.gbr'.
+Plotted to '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-B_Silkscreen.gbr'.
+Plotted to '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-F_Mask.gbr'.
+Plotted to '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-B_Mask.gbr'.
+Plotted to '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/teebalroshood/Desktop/Phil'slab2/Phil's_lab-job.gbrjob'.
+Info: Done.
+Info: Done.
